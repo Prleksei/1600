@@ -3,3 +3,4 @@ def is_positive_number(num):
 
 print(is_positive_number(10))  # True
 print(is_positive_number(-5))  # False      
+print(is_positive_number(0))   # False

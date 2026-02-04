@@ -5,3 +5,5 @@ def sum_list(numbers):
     return total    
 
 print(sum_list([5,1,2]))
+print(sum_list([1,2,3,4,5]))
+
